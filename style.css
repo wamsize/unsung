@@ -1,0 +1,88 @@
+/* CSS Document */
+
+body {
+	font-family: Gudea,serif;
+}
+
+button, input[type='button'] {
+	margin-top: 0;
+	width: 160px;
+	padding: 8px;
+	background-color: rgba(0,0,0,0);
+	font-size: 14pt;
+}
+
+.btn-g1 {
+	color: #D4D40B;
+	border: 2px solid #D4D40B;
+}
+.btn-g1:hover {
+	background-color: #D4D40B;
+	-webkit-transition: background-color 300ms linear;
+	-moz-transition: background-color 300ms linear;
+	-o-transition: background-color 300ms linear;
+	-ms-transition: background-color 300ms linear;
+	transition: background-color 300ms linear;
+	color: #fff;
+	cursor: pointer;
+}
+.btn-g2 {
+	color: #C2C20A;
+	border: 2px solid #C2C20A;
+}
+.btn-g2:hover {
+	background-color: #C2C20A;
+	-webkit-transition: background-color 300ms linear;
+	-moz-transition: background-color 300ms linear;
+	-o-transition: background-color 300ms linear;
+	-ms-transition: background-color 300ms linear;
+	transition: background-color 300ms linear;
+	color: #fff;
+	cursor: pointer;
+}
+.btn-g3 {
+	color: #B5B507;
+	border: 2px solid #B5B507;
+}
+.btn-g3:hover {
+	background-color: #B5B507;
+	-webkit-transition: background-color 300ms linear;
+	-moz-transition: background-color 300ms linear;
+	-o-transition: background-color 300ms linear;
+	-ms-transition: background-color 300ms linear;
+	transition: background-color 300ms linear;
+	color: #fff;
+	cursor: pointer;
+}
+.btn-g4 {
+	color: #A6A60A;
+	border: 2px solid #A6A60A;
+}
+.btn-g4:hover {
+	background-color: #A6A60A;
+	-webkit-transition: background-color 300ms linear;
+	-moz-transition: background-color 300ms linear;
+	-o-transition: background-color 300ms linear;
+	-ms-transition: background-color 300ms linear;
+	transition: background-color 300ms linear;
+	color: #fff;
+	cursor: pointer;
+}
+
+.btn {
+	cursor: pointer;
+	font-family: Gudea,serif;
+	font-size: 2vh;
+	display: inline-block;
+	padding: 6px 12px;
+	margin-bottom: 0;
+	text-align: center;
+	color: #fff;
+	background-color: #5bc0de;
+	border-color: #46b8da;
+}
+.btn:hover {
+	color: #fff;
+	background-color: #31b0d5;
+	border-color: #269abc;
+}
